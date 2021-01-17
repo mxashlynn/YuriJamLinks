@@ -18,6 +18,7 @@
 - [Raibow Jam 17](https://itch.io/jam/rainbowjam17) 🏳️‍🌈 [Games](https://itch.io/jam/rainbowjam17/entries)
 - [Raibow Jam 18](https://itch.io/jam/rainbowjam18) 🏳️‍🌈 [Games](https://itch.io/jam/rainbowjam18/entries)
 - [Raibow Jam 19](https://itch.io/jam/rainbowjam19) 🏳️‍🌈 [Games](https://itch.io/jam/rainbowjam19/entries)
+- [Raibow Jam 20](https://itch.io/jam/rainbowjam20) 🏳️‍🌈 [Games](https://itch.io/jam/rainbowjam20/entries)
 
 ## Contributing
 
