@@ -19,6 +19,7 @@
 - [Rainbow Jam 18](https://itch.io/jam/rainbowjam18) 🏳️‍🌈 [Games](https://itch.io/jam/rainbowjam18/entries)
 - [Rainbow Jam 19](https://itch.io/jam/rainbowjam19) 🏳️‍🌈 [Games](https://itch.io/jam/rainbowjam19/entries)
 - [Rainbow Jam 20](https://itch.io/jam/rainbowjam20) 🏳️‍🌈 [Games](https://itch.io/jam/rainbowjam20/entries)
+- [Nonbinary Game Jam 2021](https://itch.io/jam/nonbinarygamejam2021) 🧑‍💻 [Games](https://itch.io/jam/nonbinarygamejam2021/entries)
 
 ## Contributing
 
