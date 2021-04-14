@@ -23,6 +23,10 @@
 - [Nonbinary Game Jam 2020](https://itch.io/jam/nonbinarygamejam2020) 🧑‍💻 [Games](https://itch.io/jam/nonbinarygamejam2020/entries)
 - [Nonbinary Game Jam 2021](https://itch.io/jam/nonbinarygamejam2021) 🧑‍💻 [Games](https://itch.io/jam/nonbinarygamejam2021/entries)
 
+## Bundles 🥰💸👍
+
+- [Queer Games Bundle 2021](https://itch.io/jam/queer-games-bundle-2021) Support queer creators!
+
 ## Contributing
 
 Know another jam that should be on one of these lists?
