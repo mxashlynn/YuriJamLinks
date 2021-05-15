@@ -22,6 +22,8 @@
 - [Nonbinary Game Jam 2019](https://itch.io/jam/nonbinary-game-jam) 🧑‍💻 [Games](https://itch.io/jamnonbinary-game-jam/entries)
 - [Nonbinary Game Jam 2020](https://itch.io/jam/nonbinarygamejam2020) 🧑‍💻 [Games](https://itch.io/jam/nonbinarygamejam2020/entries)
 - [Nonbinary Game Jam 2021](https://itch.io/jam/nonbinarygamejam2021) 🧑‍💻 [Games](https://itch.io/jam/nonbinarygamejam2021/entries)
+- [Touhou Pride Game Jam 2](https://itch.io/jam/touhou-pride-jam-2) 🗡️🧹 [Games](https://itch.io/jam/touhou-pride-jam-2/entries)
+- [Touhou Pride Game Jam 3](https://itch.io/jam/touhou-pride-jam-3) 🗡️🧹 [Games](https://itch.io/jam/touhou-pride-jam-3/entries)
 
 ## Bundles 🥰💸👍
 
