@@ -25,6 +25,7 @@
 - [Nonbinary Game Jam 2021](https://itch.io/jam/nonbinarygamejam2021) 🧑‍💻 [Games](https://itch.io/jam/nonbinarygamejam2021/entries)
 - [Touhou Pride Game Jam 2](https://itch.io/jam/touhou-pride-jam-2) 🗡️🧹 [Games](https://itch.io/jam/touhou-pride-jam-2/entries)
 - [Touhou Pride Game Jam 3](https://itch.io/jam/touhou-pride-jam-3) 🗡️🧹 [Games](https://itch.io/jam/touhou-pride-jam-3/entries)
+- [Release the Magic! A Queer Magical Girl Jam](https://itch.io/jam/release-the-magic-a-queer-magical-girl-game-jam) 👧➡️🧚‍♀️♘ [Games](https://itch.io/jam/release-the-magic-a-queer-magical-girl-game-jam)
 
 ## Bundles 🥰💸👍
 
