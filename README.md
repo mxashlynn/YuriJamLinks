@@ -19,6 +19,7 @@
 - [Rainbow Jam 18](https://itch.io/jam/rainbowjam18) 🏳️‍🌈 [Games](https://itch.io/jam/rainbowjam18/entries)
 - [Rainbow Jam 19](https://itch.io/jam/rainbowjam19) 🏳️‍🌈 [Games](https://itch.io/jam/rainbowjam19/entries)
 - [Rainbow Jam 20](https://itch.io/jam/rainbowjam20) 🏳️‍🌈 [Games](https://itch.io/jam/rainbowjam20/entries)
+- [Rainbow Jam 21](https://itch.io/jam/rainbowjam21) 🏳️‍🌈 [Games](https://itch.io/jam/rainbowjam21/entries)
 - [Enbies Awards 2020](https://itch.io/jam/the-enbies-awards-2020) 🏆 [Games](https://itch.io/jam/the-enbies-awards-2020/entries)
 - [Nonbinary Game Jam 2019](https://itch.io/jam/nonbinary-game-jam) 🧑‍💻 [Games](https://itch.io/jamnonbinary-game-jam/entries)
 - [Nonbinary Game Jam 2020](https://itch.io/jam/nonbinarygamejam2020) 🧑‍💻 [Games](https://itch.io/jam/nonbinarygamejam2020/entries)
