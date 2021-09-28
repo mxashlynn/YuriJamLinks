@@ -28,6 +28,7 @@
 - [Touhou Pride Game Jam 3](https://itch.io/jam/touhou-pride-jam-3) 🧙‍♀️ [Games](https://itch.io/jam/touhou-pride-jam-3/entries)
 - [Release the Magic! A Queer Magical Girl Jam](https://itch.io/jam/release-the-magic-a-queer-magical-girl-game-jam) 🧚‍♀️ [Games](https://itch.io/jam/release-the-magic-a-queer-magical-girl-game-jam)
 - [Friendship Garden Slow Jam](https://itch.io/jam/sunshower-slowjam) 🌱 [Games](https://itch.io/jam/sunshower-slowjam/entries)
+- [Gender Game Jam](https://itch.io/jam/gender-game-jam) 🎓 [Games](Gender Game Jam](https://itch.io/jam/gender-game-jam/entries)
 
 ## Bundles 💰
 
