@@ -29,7 +29,7 @@
 - [Release the Magic! A Queer Magical Girl Jam](https://itch.io/jam/release-the-magic-a-queer-magical-girl-game-jam) 🧚‍♀️ [Games](https://itch.io/jam/release-the-magic-a-queer-magical-girl-game-jam)
 - [Friendship Garden Slow Jam](https://itch.io/jam/sunshower-slowjam) 🌱 [Games](https://itch.io/jam/sunshower-slowjam/entries)
 - [Gender Game Jam](https://itch.io/jam/gender-game-jam) 🎓 [Games](https://itch.io/jam/gender-game-jam/entries)
-- [Girlfriend Jam](https://itch.io/jam/girlfriend) 👯‍♀️ [Games](https://itch.io/jam/girlfriend/entries)
+- [Powered by My Girlfriend Jam](https://itch.io/jam/girlfriend) 👯‍♀️ [Games](https://itch.io/jam/girlfriend/entries)
 
 ## Bundles 💰
 
