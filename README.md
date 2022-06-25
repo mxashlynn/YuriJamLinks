@@ -6,12 +6,14 @@
 - [Yuri Jam 2019](https://itch.io/jam/yuri-game-jam-2019) 👩‍❤️‍💋‍👩 [Games](https://itch.io/jam/yuri-game-jam-2019/entries)
 - [Yuri Jam 2020](https://itch.io/jam/yuri-game-jam-2020) 👩‍❤️‍💋‍👩 [Games](https://itch.io/jam/yuri-game-jam-2020/entries)
 - [Yuri Jam 2021](https://itch.io/jam/yuri-game-jam-2021) 👩‍❤️‍💋‍👩 [Games](https://itch.io/jam/yuri-game-jam-2021/entries)
+- [Yuri Jam 2021](https://itch.io/jam/yuri-game-jam-2022) 👩‍❤️‍💋‍👩 Games
 
 ## Other Queer Game Jams 👭🕹️✨
 
 - [Trans Gal Jam 1](https://itch.io/jam/trans-gal-jam) ⚧️ [Games](https://itch.io/jam/trans-gal-jam/entries)
 - [Trans Gal Jam 2](https://itch.io/jam/trans-gal-jam-2) ⚧️ [Games](https://itch.io/jam/trans-gal-jam-2/entries)
 - [Trans Gal Jam 3](https://itch.io/jam/trans-gal-jam-3) ⚧️ [Games](https://itch.io/jam/trans-gal-jam-3/entries)
+- [Trans Gal Jam 2022](https://itch.io/jam/trans-gal-jam-2022) ⚧️ Games
 - [Ace Jam 2018](https://itch.io/jam/ace-jam) 〇 [Games](https://itch.io/jam/ace-jam/entries)
 - [Ace Jam 2019](https://itch.io/jam/ace-jam-2019) 〇 [Games](https://itch.io/jam/ace-jam-2019/entries)
 - [Ace Jam 2020](https://itch.io/jam/ace-jam-2020) 〇 [Games](https://itch.io/jam/ace-jam-2020/entries)
@@ -28,6 +30,7 @@
 - [Nonbinary Game Jam 2019](https://itch.io/jam/nonbinary-game-jam) 🧑‍💻 [Games](https://itch.io/jamnonbinary-game-jam/entries)
 - [Nonbinary Game Jam 2020](https://itch.io/jam/nonbinarygamejam2020) 🧑‍💻 [Games](https://itch.io/jam/nonbinarygamejam2020/entries)
 - [Nonbinary Game Jam 2021](https://itch.io/jam/nonbinarygamejam2021) 🧑‍💻 [Games](https://itch.io/jam/nonbinarygamejam2021/entries)
+- [Nonbinary Game Jam 2022](https://itch.io/jam/nonbinarygamejam2022) 🧑‍💻 Games
 - [Touhou Pride Game Jam 2](https://itch.io/jam/touhou-pride-jam-2) 🧙‍♀️ [Games](https://itch.io/jam/touhou-pride-jam-2/entries)
 - [Touhou Pride Game Jam 3](https://itch.io/jam/touhou-pride-jam-3) 🧙‍♀️ [Games](https://itch.io/jam/touhou-pride-jam-3/entries)
 - [Release the Magic! A Queer Magical Girl Jam](https://itch.io/jam/release-the-magic-a-queer-magical-girl-game-jam) 🧚‍♀️ [Games](https://itch.io/jam/release-the-magic-a-queer-magical-girl-game-jam)
@@ -37,7 +40,8 @@
 
 ## Bundles 💰
 
-- [Queer Games Bundle 2021](https://itch.io/jam/queer-games-bundle-2021) Support queer creators!
+- [Queer Games Bundle 2021](https://itch.io/jam/queer-games-bundle-2021)
+- [Queer Games Bundle 2021](https://itch.io/jam/queer-games-bundle-2022) Support queer creators!
 
 ## Contributing
 
