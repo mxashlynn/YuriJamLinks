@@ -41,7 +41,7 @@
 ## Bundles 💰
 
 - [Queer Games Bundle 2021](https://itch.io/jam/queer-games-bundle-2021)
-- [Queer Games Bundle 2021](https://itch.io/jam/queer-games-bundle-2022) Support queer creators!
+- [Queer Games Bundle 2022](https://itch.io/jam/queer-games-bundle-2022) Support queer creators!
 
 ## Contributing
 
