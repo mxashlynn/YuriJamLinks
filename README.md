@@ -1,4 +1,4 @@
-## Historical Yuri/WLW Game Jams 👩‍❤️‍👩🎮🌤️
+## Historical WLW Game Jams 👩‍❤️‍👩🎮🌤️
 - [Yuri Jam 2015](https://itch.io/jam/yuri-game-jam) 👩‍❤️‍💋‍👩 [Entries](https://itch.io/jam/yuri-game-jam/entries)
 - [Yuri Jam 2016](https://itch.io/jam/yuri-game-jam-2016) 👩‍❤️‍💋‍👩 [Entries](https://itch.io/jam/yuri-game-jam-2016/entries)
 - [Yuri Jam 2017](https://itch.io/jam/yuri-game-jam-2017) 👩‍❤️‍💋‍👩 [Entries](https://itch.io/jam/yuri-game-jam-2017/entries)
@@ -9,6 +9,9 @@
 - [Yuri Jam 2022](https://itch.io/jam/yuri-game-jam-2022) 👩‍❤️‍💋‍👩 [Entries](https://itch.io/jam/yuri-game-jam-2022/entries)
 
 ## Other Queer Game Jams 👭🕹️✨
+
+There are so many queer game jams nowadays that I cannot keep up with them all.
+That's rad!  But also it means this list is very incomplete~
 
 - [Trans Gal Jam 1](https://itch.io/jam/trans-gal-jam) ⚧️ [Entries](https://itch.io/jam/trans-gal-jam/entries)
 - [Trans Gal Jam 2](https://itch.io/jam/trans-gal-jam-2) ⚧️ [Entries](https://itch.io/jam/trans-gal-jam-2/entries)
@@ -43,6 +46,7 @@
 
 - [Queer Games Bundle 2021](https://itch.io/jam/queer-games-bundle-2021)
 - [Queer Games Bundle 2022](https://itch.io/jam/queer-games-bundle-2022) Support queer creators!
+- [Queer Halloween Stories 2022](https://itch.io/b/1550/queer-halloween-stories-2022)
 
 ## Contributing
 
