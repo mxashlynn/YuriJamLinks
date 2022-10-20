@@ -16,7 +16,7 @@ That's rad!  But also it means this list is very incomplete~
 - [Trans Gal Jam 1](https://itch.io/jam/trans-gal-jam) ⚧️ [Entries](https://itch.io/jam/trans-gal-jam/entries)
 - [Trans Gal Jam 2](https://itch.io/jam/trans-gal-jam-2) ⚧️ [Entries](https://itch.io/jam/trans-gal-jam-2/entries)
 - [Trans Gal Jam 3](https://itch.io/jam/trans-gal-jam-3) ⚧️ [Entries](https://itch.io/jam/trans-gal-jam-3/entries)
-- [Trans Gal Jam 2022](https://itch.io/jam/trans-gal-jam-2022) ⚧️ Games
+- [Trans Gal Jam 2022](https://itch.io/jam/trans-gal-jam-2022) ⚧️ [Enteries](https://itch.io/jam/trans-gal-jam-2022/entries)
 - [Ace Jam 2018](https://itch.io/jam/ace-jam) 〇 [Entries](https://itch.io/jam/ace-jam/entries)
 - [Ace Jam 2019](https://itch.io/jam/ace-jam-2019) 〇 [Entries](https://itch.io/jam/ace-jam-2019/entries)
 - [Ace Jam 2020](https://itch.io/jam/ace-jam-2020) 〇 [Entries](https://itch.io/jam/ace-jam-2020/entries)
