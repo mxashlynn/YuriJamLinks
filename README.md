@@ -43,9 +43,10 @@ That's rad!  But also it means this list is very incomplete~
 - [Trans Representation Jam 2022](https://itch.io/jam/trans-representation-jam) 💙 [Entries](https://itch.io/jam/trans-representation-jam/entries)
 
 ## Bundles 💰
+Support queer creators!
 
 - [Queer Games Bundle 2021](https://itch.io/jam/queer-games-bundle-2021)
-- [Queer Games Bundle 2022](https://itch.io/jam/queer-games-bundle-2022) Support queer creators!
+- [Queer Games Bundle 2022](https://itch.io/jam/queer-games-bundle-2022)
 - [Queer Halloween Stories 2022](https://itch.io/b/1550/queer-halloween-stories-2022)
 
 ## Contributing
