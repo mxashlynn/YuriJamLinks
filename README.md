@@ -1,3 +1,7 @@
+# ⚠
+
+📝 These days there are a lot more queer and WLW jams!  That's rad!  But I can no longer keep up with them all, so I'm archiving this repo.  Keep making and playing queer games!
+
 ## Historical WLW Game Jams 👩‍❤️‍👩🎮🌤️
 - [Yuri Jam 2015](https://itch.io/jam/yuri-game-jam) 👩‍❤️‍💋‍👩 [Entries](https://itch.io/jam/yuri-game-jam/entries)
 - [Yuri Jam 2016](https://itch.io/jam/yuri-game-jam-2016) 👩‍❤️‍💋‍👩 [Entries](https://itch.io/jam/yuri-game-jam-2016/entries)
