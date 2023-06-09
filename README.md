@@ -1,8 +1,8 @@
-# ⚠
+# WLW Game Jams
 
-📝 These days there are a lot more queer and WLW jams!  That's rad!  But I can no longer keep up with them all, so I'm archiving this repo.  Keep making and playing queer games!
+📝 This is mostly just a reminder to myself when I go searching for these jams.
 
-## Historical WLW Game Jams 👩‍❤️‍👩🎮🌤️
+## Yuri Jams 👩‍❤️‍👩🎮🌤️
 - [Yuri Jam 2015](https://itch.io/jam/yuri-game-jam) 👩‍❤️‍💋‍👩 [Entries](https://itch.io/jam/yuri-game-jam/entries)
 - [Yuri Jam 2016](https://itch.io/jam/yuri-game-jam-2016) 👩‍❤️‍💋‍👩 [Entries](https://itch.io/jam/yuri-game-jam-2016/entries)
 - [Yuri Jam 2017](https://itch.io/jam/yuri-game-jam-2017) 👩‍❤️‍💋‍👩 [Entries](https://itch.io/jam/yuri-game-jam-2017/entries)
@@ -11,6 +11,7 @@
 - [Yuri Jam 2020](https://itch.io/jam/yuri-game-jam-2020) 👩‍❤️‍💋‍👩 [Entries](https://itch.io/jam/yuri-game-jam-2020/entries)
 - [Yuri Jam 2021](https://itch.io/jam/yuri-game-jam-2021) 👩‍❤️‍💋‍👩 [Entries](https://itch.io/jam/yuri-game-jam-2021/entries)
 - [Yuri Jam 2022](https://itch.io/jam/yuri-game-jam-2022) 👩‍❤️‍💋‍👩 [Entries](https://itch.io/jam/yuri-game-jam-2022/entries)
+- [Yuri Jam 2023](https://itch.io/jam/yuri-game-jam-2023) 👩‍❤️‍💋‍👩 [Entries](https://itch.io/jam/yuri-game-jam-2023/entries)
 
 ## Other Queer Game Jams 👭🕹️✨
 
@@ -47,11 +48,13 @@ That's rad!  But also it means this list is very incomplete~
 - [Trans Representation Jam 2022](https://itch.io/jam/trans-representation-jam) 💙 [Entries](https://itch.io/jam/trans-representation-jam/entries)
 
 ## Bundles 💰
+
 Support queer creators!
 
-- [Queer Games Bundle 2021](https://itch.io/jam/queer-games-bundle-2021)
-- [Queer Games Bundle 2022](https://itch.io/jam/queer-games-bundle-2022)
+- [Queer Games Bundle 2021](https://itch.io/b/861/queer-games-bundle-2021)
+- [Queer Games Bundle 2022](https://itch.io/b/1404/queer-games-bundle-2022)
 - [Queer Halloween Stories 2022](https://itch.io/b/1550/queer-halloween-stories-2022)
+- [Queer Games Bundle 2023](https://itch.io/b/1812/queer-games-bundle-2023)
 
 ## Contributing
 
