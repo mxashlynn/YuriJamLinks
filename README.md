@@ -47,6 +47,7 @@ That's rad!  But also it means this list is very incomplete~
 - [Gender Game Jam](https://itch.io/jam/gender-game-jam) 🎓 [Entries](https://itch.io/jam/gender-game-jam/entries)
 - [Powered by My Girlfriend Jam](https://itch.io/jam/girlfriend) 👯‍♀️ [Entries](https://itch.io/jam/girlfriend/entries)
 - [Trans Representation Jam 2022](https://itch.io/jam/trans-representation-jam) 💙 [Entries](https://itch.io/jam/trans-representation-jam/entries)
+- [QGJam](https://itch.io/jam/qgjam-2023/) 🎓 [Entries](https://itch.io/jam/qgjam-2023/entries)
 
 ## Bundles 💰
 
