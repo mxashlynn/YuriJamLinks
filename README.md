@@ -48,6 +48,7 @@ That's rad!  But also it means this list is very incomplete~
 - [Powered by My Girlfriend Jam](https://itch.io/jam/girlfriend) 👯‍♀️ [Entries](https://itch.io/jam/girlfriend/entries)
 - [Trans Representation Jam 2022](https://itch.io/jam/trans-representation-jam) 💙 [Entries](https://itch.io/jam/trans-representation-jam/entries)
 - [QGJam](https://itch.io/jam/qgjam-2023/) 🎓 [Entries](https://itch.io/jam/qgjam-2023/entries)
+- [Queer Joy Jam 2024](https://itch.io/jam/queerjoyjam2024) 🎈 [Entries](https://itch.io/jam/queerjoyjam2024/entries)
 
 ## Bundles 💰
 
@@ -57,6 +58,7 @@ Support queer creators!
 - [Queer Games Bundle 2022](https://itch.io/b/1404/queer-games-bundle-2022)
 - [Queer Halloween Stories 2022](https://itch.io/b/1550/queer-halloween-stories-2022)
 - [Queer Games Bundle 2023](https://itch.io/b/1812/queer-games-bundle-2023)
+- [Queer Games Bundle 2024](https://itch.io/b/2506/queer-games-bundle-2024-with-10-option)
 
 ## Contributing
 
