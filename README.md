@@ -13,6 +13,7 @@
 - [Yuri Jam 2022](https://itch.io/jam/yuri-game-jam-2022) 👩‍❤️‍💋‍👩 [Entries](https://itch.io/jam/yuri-game-jam-2022/entries)
 - [Yuri Jam 2023](https://itch.io/jam/yuri-game-jam-2023) 👩‍❤️‍💋‍👩 [Entries](https://itch.io/jam/yuri-game-jam-2023/entries)
 - [Yuri Jam 2024](https://itch.io/jam/yuri-game-jam-2024) 👩‍❤️‍💋‍👩 [Entries](https://itch.io/jam/yuri-game-jam-2024/entries)
+- [Yuri Jam 2025](https://itch.io/jam/yuri-game-jam-2025) 👩‍❤️‍💋‍👩 Entries
 
 ## Other Queer Game Jams 👭🕹️✨
 
