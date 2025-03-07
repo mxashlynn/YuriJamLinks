@@ -2,6 +2,7 @@
 
 📝 This is mostly just a reminder to myself when I go searching for these jams.
 
+
 ## Yuri Jams 👩‍❤️‍👩🎮🌤️
 - [Yuri Jam 2015](https://itch.io/jam/yuri-game-jam) 👩‍❤️‍💋‍👩 [Entries](https://itch.io/jam/yuri-game-jam/entries)
 - [Yuri Jam 2016](https://itch.io/jam/yuri-game-jam-2016) 👩‍❤️‍💋‍👩 [Entries](https://itch.io/jam/yuri-game-jam-2016/entries)
@@ -14,6 +15,7 @@
 - [Yuri Jam 2023](https://itch.io/jam/yuri-game-jam-2023) 👩‍❤️‍💋‍👩 [Entries](https://itch.io/jam/yuri-game-jam-2023/entries)
 - [Yuri Jam 2024](https://itch.io/jam/yuri-game-jam-2024) 👩‍❤️‍💋‍👩 [Entries](https://itch.io/jam/yuri-game-jam-2024/entries)
 - [Yuri Jam 2025](https://itch.io/jam/yuri-game-jam-2025) 👩‍❤️‍💋‍👩 Entries
+
 
 ## Other Queer Game Jams 👭🕹️✨
 
@@ -50,6 +52,8 @@ That's rad!  But also it means this list is very incomplete~
 - [Trans Representation Jam 2022](https://itch.io/jam/trans-representation-jam) 💙 [Entries](https://itch.io/jam/trans-representation-jam/entries)
 - [QGJam](https://itch.io/jam/qgjam-2023/) 🎓 [Entries](https://itch.io/jam/qgjam-2023/entries)
 - [Queer Joy Jam 2024](https://itch.io/jam/queerjoyjam2024) 🎈 [Entries](https://itch.io/jam/queerjoyjam2024/entries)
+- [Mecha Trans/Yuri/BL Jam](https://itch.io/jam/mecha-yuri-bl-jam) 🤖 [Entries](https://itch.io/jam/mecha-yuri-bl-jam/entries)
+
 
 ## Bundles 💰
 
@@ -61,8 +65,10 @@ Support queer creators!
 - [Queer Games Bundle 2023](https://itch.io/b/1812/queer-games-bundle-2023)
 - [Queer Games Bundle 2024](https://itch.io/b/2506/queer-games-bundle-2024-with-10-option)
 
+
 ## Contributing
 
 Know another jam that should be on one of these lists?
 I'd love to add it!  :3
 Open a pull request or send me a message!  💌
+
