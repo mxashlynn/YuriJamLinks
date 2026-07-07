@@ -56,6 +56,7 @@ That's rad!  But also it means this list is very incomplete~
 - [QGJam](https://itch.io/jam/qgjam-2023/) 🎓 [Entries](https://itch.io/jam/qgjam-2023/entries)
 - [Queer Joy Jam 2024](https://itch.io/jam/queerjoyjam2024) 🎈 [Entries](https://itch.io/jam/queerjoyjam2024/entries)
 - [Mecha Trans/Yuri/BL Jam](https://itch.io/jam/mecha-yuri-bl-jam) 🤖 [Entries](https://itch.io/jam/mecha-yuri-bl-jam/entries)
+- [Sapphic Monster Girl Fluff Jam 2026](https://itch.io/jam/sapphic-monster-girl-fluff-jam-2026) 🧞‍♀️ [Entries](https://itch.io/jam/sapphic-monster-girl-fluff-jam-2026/entries)
 
 
 ## Bundles 💰
@@ -67,6 +68,8 @@ Support queer creators!
 - [Queer Halloween Stories 2022](https://itch.io/b/1550/queer-halloween-stories-2022)
 - [Queer Games Bundle 2023](https://itch.io/b/1812/queer-games-bundle-2023)
 - [Queer Games Bundle 2024](https://itch.io/b/2506/queer-games-bundle-2024-with-10-option)
+- [Queer Games Bundle 2025](https://itch.io/b/3063/queer-games-bundle-2025-pay-what-you-can-edition)
+- [The Power of Pride Bundle 2026](https://itch.io/b/3682/the-power-of-pride-bundle-2026-60-edition)
 
 
 ## Contributing
